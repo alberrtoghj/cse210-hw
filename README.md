@@ -1,5 +1,8 @@
 # cse210-ww-student-template
-This is the starter code for students in the worldwide content version of CSE 210.
+
+Destiny Akpoyibo Niesi
+
+This is a project to practice using Git and GitHub
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 

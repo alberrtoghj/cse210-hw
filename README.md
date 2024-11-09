@@ -2,7 +2,7 @@
 
 Destiny Akpoyibo Niesi
 
-This is a project to practice using Git and GitHub
+This is a project to practice using Git and GitHub.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 

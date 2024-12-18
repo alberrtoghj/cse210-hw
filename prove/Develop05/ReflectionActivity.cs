@@ -53,3 +53,20 @@ namespace ActivityProgram
         }
     }
 }
+
+
+using System;
+using System.Collections.Generic;
+using System.IO;
+
+namespace GoalTracker
+{
+    // Base class for all goal types
+    public abstract class Goal
+    {
+        public string Name { get; protected set; }
+        public string Description { get; protected set; }
+        public int Points { get; protected set; }
+        public bool IsComplete { get; protected set; }
+    }
+}
